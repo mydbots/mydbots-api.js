@@ -1,8 +1,8 @@
 {
-  "name": "mydbots.js",
-  "version": "1.0.0",
+  "name": "mybots-api.js",
+  "version": "1.0.1",
   "description": "An official myDbots.ml api",
-  "main": "mydbots.js",
+  "main": "mydbots-api.js",
   "scripts": {
     "test": "!vote"
   },
@@ -29,10 +29,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mydbots/mydbots.js.git"
+    "url": "git+https://github.com/mydbots/mydbots-api.js.git"
   },
   "bugs": {
-    "url": "https://github.com/mydbots/mydbots.js/issues"
+    "url": "https://github.com/mydbots/mydbots-api.js/issues"
   },
-  "homepage": "https://github.com/mydbots/mydbots.js#readme"
+  "homepage": "https://github.com/mydbots/mydbots-api.js#readme"
 }
