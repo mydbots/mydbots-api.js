@@ -2,7 +2,7 @@
 
 <a href="https://myDbots.ml/discord" target="_blank"><img src="https://img.devsforum.net/tr/img/h1Z2X3.png" alt="Join our discord" width="256"></a><br>
 **Support:** [https://myDbots.ml/discord](https://myDbots.ml/discord) <br>
-**NPM:** [npmjs.com/package/mydbots.js](https://www.npmjs.com/package/mydbots.js)<br>
+**NPM:** [npmjs.com/package/mybots-api.js](https://www.npmjs.com/package/mybots-api.js)<br>
 
 ## Installation
 
