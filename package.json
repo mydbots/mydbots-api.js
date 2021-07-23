@@ -1,0 +1,29 @@
+{
+  "name": "mydbots.js",
+  "version": "0.0.1-alpha",
+  "description": "An official myDbots.ml api",
+  "main": "mydbots.js",
+  "scripts": {
+    "test": "!vote"
+  },
+  "keywords": [
+    "bot",
+    "list",
+    "discord",
+    "dbl",
+    "vcodes",
+    "api",
+    "bots",
+    "vote",
+    "check",
+    "vote",
+    "control",
+    "force",
+    "vote"
+  ],
+  "author": "Kushaal,",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
