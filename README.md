@@ -8,15 +8,15 @@
 
 _If you have trouble with the installation, please feel free to visit our [discord](https://myDbots.ml/discord)._
 
-- `npm i mydbots.js`
+- `npm i mybots-api.js`
 
 # Define Module & Client
 
 ```js
 const Discord = require("discord.js");
 const client = new Discord.Client();
-const vCodes = require("vcodes.js");
-const dbl = new vCodes("myDbots Token", client);
+const myDbots = require("mybots-api.js");
+const dbl = new myDbots("myDbots Token", client);
 
 client.login("Discord Bot Token");
 ```
